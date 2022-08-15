@@ -1,9 +1,8 @@
 <div align="center"> <h1> 👋 Hi, I’m Dev Vijay </h1> </div>
 
+![1660550363101](https://user-images.githubusercontent.com/106962581/184598613-8b6a065b-a77f-4293-9f88-515cd1026b42.jpg)
 
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning networking and ethical hacking.
-- 💞️ I’m looking to collaborate on open source projects.
+I'm currently a first-year computer science student at Modi Institute of Management & Technology. I'm a networking and ethical hacking enthusiast and looking forward to exploring various fields of technology.
 
 ### Connect with me on 
 <p align="left">
