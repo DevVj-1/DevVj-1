@@ -9,4 +9,8 @@ I'm currently a first-year computer science student at Modi Institute of Managem
 <a href="https://www.linkedin.com/in/dev-vijay-5775b7243/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/106962581/181273842-b7db3193-c908-4eed-8007-d3a1d6e7d5e9.png" alt="linktree" height="40" width="40" /></a>
 </p>
 
+<div align="center">
+
 ![3](https://user-images.githubusercontent.com/106962581/185757410-003d08c5-6a71-4912-81eb-8f00171a50de.gif)
+
+</div>
