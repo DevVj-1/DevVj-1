@@ -23,3 +23,5 @@ I'm currently a first-year computer science student at Modi Institute of Managem
 ![3](https://user-images.githubusercontent.com/106962581/185757410-003d08c5-6a71-4912-81eb-8f00171a50de.gif)
 
 </div>
+
+[![@devvj1's Holopin board](https://holopin.me/devvj1)](https://holopin.io/@devvj1)
