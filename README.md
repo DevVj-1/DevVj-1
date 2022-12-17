@@ -2,6 +2,10 @@
 
 ![1660550363101](https://user-images.githubusercontent.com/106962581/184598613-8b6a065b-a77f-4293-9f88-515cd1026b42.jpg)
 
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Devvj1.png" alt="TryHackMe">
+</div>
+  
 I'm currently a first-year computer science student at Modi Institute of Management & Technology. I'm a networking and ethical hacking enthusiast and looking forward to exploring various fields of technology.
 
 <div align="center">
