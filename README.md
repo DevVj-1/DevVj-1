@@ -4,6 +4,7 @@
 
 <div align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Devvj1.png" alt="TryHackMe">
+  <script src="https://tryhackme.com/badge/1245996"></script>
 </div>
   
 I'm currently a first-year computer science student at Modi Institute of Management & Technology. I'm a networking and ethical hacking enthusiast and looking forward to exploring various fields of technology.
