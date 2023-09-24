@@ -30,10 +30,16 @@ I'm currently a second-year computer science student at Modi Institute of Manage
 
 [![@devvj1's Holopin board](https://holopin.me/devvj1)](https://holopin.io/@devvj1)
 
-</h1>My project Sub-Ringan-Framework 🔍 </h1>
+<h1> Project Sub-Ringan-Framework 🔍 </h1>
 
 <div align="center">
   
 ![Picsart_23-08-08_22-08-30-090](https://github.com/DevVj-1/DevVj-1/assets/106962581/466bf421-86b8-4a9c-8534-f9dc7054c623)
+
+</div>
+<h1> Discord Bot: Team-V-DailyCTF</h1>
+<div align="center">
+
+![new](https://github.com/DevVj-1/DevVj-1/assets/106962581/2d4c6811-16ac-4b3b-96f3-44e0aec9450f)
 
 </div>
