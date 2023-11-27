@@ -24,7 +24,8 @@ I'm currently a second-year computer science student at Modi Institute of Manage
 
 <div align="center">
 #here wee gooooooooooooooooooooooooooooooooooooooooooooooooooooooo
-<iframe src="https://giphy.com/embed/FcqKy4Kj7XOK0hCW4g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-matrix-catrix-FcqKy4Kj7XOK0hCW4g">via GIPHY</a></p>
+
+![3](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)
 
 ![3](https://user-images.githubusercontent.com/106962581/185757410-003d08c5-6a71-4912-81eb-8f00171a50de.gif)
 
