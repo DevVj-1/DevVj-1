@@ -23,11 +23,10 @@ I'm currently a second-year computer science student at Modi Institute of Manage
 </p>
 
 <div align="center">
-
-
 </div>
 
-![3](https://media.giphy.com/media/d37vOmmNTui7HVlwGq/giphy.gif)
+![3](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
+
 </div>
 
 [![@devvj1's Holopin board](https://holopin.me/devvj1)](https://holopin.io/@devvj1)
