@@ -10,7 +10,7 @@
 
 
   
-I'm currently a second-year computer science student at Modi Institute of Management & Technology. I'm a networking and ethical hacking enthusiast and looking forward to exploring various fields of technology.
+I'm currently a computer science student at Modi Institute of Management & Technology. I'm a networking and ethical hacking enthusiast and looking forward to exploring various fields of technology.
 
 <div align="center">
 <table>
