@@ -12,7 +12,12 @@
   
 I'm currently a computer science student at Modi Institute of Management & Technology. I'm a networking and ethical hacking enthusiast and looking forward to exploring various fields of technology.
 
+
 <div align="center">
+
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevVj-1&label=Profile%20views&color=0e75b6&style=flat" alt="DevVj-1" /> </p>
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevVj-1&show_icons=true&line_height=10&title_color=00ff00&icon_color=2234AE&text_color=00ff00&bg_color=0,000000,130F40" alt="" /></td>
