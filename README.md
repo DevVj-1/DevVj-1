@@ -53,3 +53,13 @@ I'm looking forward to exploring various fields of Cyber Security & technology.
 ![new](https://github.com/DevVj-1/DevVj-1/assets/106962581/2d4c6811-16ac-4b3b-96f3-44e0aec9450f)
 
 </div>
+
+</div>
+<h1> Discord Bot: Team-V-DailyCTF</h1>
+<div align="center">
+
+![new](https://github.com/DevVj-1/DevVj-1/assets/106962581/7fc719bf-b3ff-4627-a0b1-b2310631b4fd)
+
+</div>
+
+
