@@ -4,10 +4,9 @@
 
 <div align="center">
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Devvj1.png" alt="TryHackMe"> 
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Devvj1.png" alt="TryHackMe">
 
 </div> 
-
 
   
 I'm looking forward to exploring various fields of Cyber Security & technology.
@@ -24,6 +23,13 @@ I'm looking forward to exploring various fields of Cyber Security & technology.
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=DevVj-1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00ff00&icon_color=2234AE&text_color=00ff00&bg_color=0,000000,130F40" alt=""></td>
   </tr>
 </table>
+</div>
+xIntern at
+<div>
+  
+
+<img src="https://github.com/DevVj-1/DevVj-1/assets/106962581/87e7904c-cf17-414e-b8fa-9cea58d68815">
+  
 </div>
 
 ### Connect with me on 
