@@ -26,9 +26,8 @@ I'm looking forward to exploring various fields of Cyber Security & technology.
 </div>
 xIntern at
 <div>
-  
 
-<img src="https://github.com/DevVj-1/DevVj-1/assets/106962581/87e7904c-cf17-414e-b8fa-9cea58d68815">
+<img src="https://github.com/DevVj-1/DevVj-1/assets/106962581/00af8aa8-c2e8-431f-931c-95d4fd46204a">
   
 </div>
 
