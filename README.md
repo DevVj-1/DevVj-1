@@ -11,6 +11,9 @@
   
 I'm looking forward to exploring various fields of Cyber Security & technology.
 
+My Writeups ✍️:
+https://medium.com/@devvijay7113/
+
 
 <div align="center">
 
