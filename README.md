@@ -60,7 +60,7 @@ xIntern at
 </div>
 
 </div>
-<h1> Discord Bot: Team-V-DailyCTF</h1>
+<h1> Face_Checker.io</h1>
 <div align="center">
 
 ![new](https://github.com/DevVj-1/DevVj-1/assets/106962581/7fc719bf-b3ff-4627-a0b1-b2310631b4fd)
