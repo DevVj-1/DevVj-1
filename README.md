@@ -69,7 +69,7 @@ xIntern at
 ![new](https://github.com/DevVj-1/DevVj-1/assets/106962581/7fc719bf-b3ff-4627-a0b1-b2310631b4fd)
 
 </div>
-
+<div align="center">
 <img src="https://github.com/DevVj-1/DevVj-1/assets/106962581/f0ac426f-a670-410e-8942-9c4dc303dca5" width="250" />
 
 ![IMG-20240703-WA0010](https://github.com/DevVj-1/DevVj-1/assets/106962581/d4fe6e53-d6bf-49f3-a0f7-b819c33ff24d)
