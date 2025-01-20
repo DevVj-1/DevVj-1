@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Devvj1.png" alt="TryHackMe">
+  ![tryhackkme](https://github.com/user-attachments/assets/8bbaf2dd-389f-4a0a-93b9-a401a44e0b21)
 
 </div> 
 
