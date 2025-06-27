@@ -1,10 +1,10 @@
 <div align="center">
   
-![1660550363101](https://user-images.githubusercontent.com/106962581/184598613-8b6a065b-a77f-4293-9f88-515cd1026b42.jpg)
+<!-- ![1660550363101](https://user-images.githubusercontent.com/106962581/184598613-8b6a065b-a77f-4293-9f88-515cd1026b42.jpg) -->
 
 <div align="center">
 
-  ![tryhackkme](https://github.com/user-attachments/assets/8bbaf2dd-389f-4a0a-93b9-a401a44e0b21)
+ <!--  ![tryhackkme](https://github.com/user-attachments/assets/8bbaf2dd-389f-4a0a-93b9-a401a44e0b21) -->
 
 </div> 
 
@@ -12,13 +12,13 @@
 I'm looking forward to exploring various fields of Cyber Security & technology.
 
 My Writeups ✍️:
-https://medium.com/@devvijay7113/
+<!--  https://medium.com/@devvijay7113/ -->
 
 
 <div align="center">
 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevVj-1&label=Profile%20views&color=0e75b6&style=flat" alt="DevVj-1" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevVj-1&label=Profile%20views&color=0e75b6&style=flat" alt="DevVj-1" /> --> </p>
 
 <table>
   <tr>
@@ -36,7 +36,8 @@ xIntern at
 
 ### Connect with me on 
 <p align="left">
-<a href="https://www.linkedin.com/in/dev-vijay-5775b7243/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/106962581/181273842-b7db3193-c908-4eed-8007-d3a1d6e7d5e9.png" alt="linktree" height="40" width="40" /></a>
+  <!-- 
+<a href="https://www.linkedin.com/in/dev-vijay-5775b7243/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/106962581/181273842-b7db3193-c908-4eed-8007-d3a1d6e7d5e9.png" alt="linktree" height="40" width="40" /> --> </a> 
 </p>
 
 <div align="center">
