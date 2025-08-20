@@ -13,7 +13,7 @@
 I'm looking forward to exploring various fields of Cyber Security & technology.
 
 My Writeups ✍️: -->
- https://medium.com/@devvijay7113/ 
+ https://medium.com/@dev7113
 
 
 <div align="center">
